@@ -1,16 +1,15 @@
-### Hi there 👋
+# Assalomu alaykum!
 
-<!--
-**mukhriddin-dev/mukhriddin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mukhriddin Khodiev, FullStack Web Developer. 
+### +998990149998
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mukhriddin Khodiev's github stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev)](https://github.com/mukhriddin-dev/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhriddin-dev)
+
+
+### The number of people watched me:
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mukhriddin-dev)
