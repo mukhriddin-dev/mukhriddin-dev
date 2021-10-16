@@ -1,7 +1,7 @@
-# Assalomu alaykum!
+# Assalomu alaykum va rahmatullohu va barakatuh!!!!
 
 ## Mukhriddin Khodiev, FullStack Web Developer. 
-### +998990149998
+### +998990149998 <a href="https://www.youtube.com/channel/UCeQa_SL8tKTYsDEnj8wYhKA"> <h2> My YouTube channel   :)</h2></a>
 
 
 [![Mukhriddin Khodiev's github stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev)](https://github.com/mukhriddin-dev/github-readme-stats)
