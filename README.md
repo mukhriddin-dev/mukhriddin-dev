@@ -5,6 +5,9 @@
 
 <a href="http://www.muhriddin.uz" > <h2> My Web site    :)</h2></a>
 
+
+<a href="https://www.instagram.com/mukhriddin_dev" > <h2> My instagram page :)</h2></a>
+
 <a href="https://www.youtube.com/channel/UCeQa_SL8tKTYsDEnj8wYhKA" > <h2> My YouTube channel   :)</h2></a>
 
 
