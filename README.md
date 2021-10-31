@@ -8,7 +8,7 @@
 
 <a href="https://www.instagram.com/mukhriddin_dev" > <h2> My instagram page :)</h2></a>
 
-<a href="https://www.youtube.com/channel/UCeQa_SL8tKTYsDEnj8wYhKA" > <h2> My YouTube channel   :)</h2></a>
+<a href="https://www.youtube.com/channel/UCw1X3ywDnl6qfwNxVcykVhw" > <h2> My YouTube channel   :)</h2></a>
 
 
 [![Mukhriddin Khodiev's github stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev)](https://github.com/mukhriddin-dev/github-readme-stats)
