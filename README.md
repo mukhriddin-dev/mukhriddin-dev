@@ -34,6 +34,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhriddinwebs)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farruholimov&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
