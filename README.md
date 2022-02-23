@@ -1,4 +1,4 @@
-##  Mukhriddin Khodiev | Web developer
+##  Mukhriddin Khodiev | JavaScript developer
 
 ### Languages and Tools
 
