@@ -1,5 +1,5 @@
 ##  Mukhriddin Khodiev | JavaScript developer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Itransitionc+Software+Ingeener;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer)
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
