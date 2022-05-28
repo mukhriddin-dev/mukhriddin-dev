@@ -26,8 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://www.twitter.com/#)
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
+
 
 
 
@@ -41,3 +40,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+
+### 📈 GitHub Activity Graph:
+[![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
