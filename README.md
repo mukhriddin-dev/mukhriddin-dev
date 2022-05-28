@@ -25,6 +25,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/mukhriddin_dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://www.twitter.com/#)
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
+
 
 
 
