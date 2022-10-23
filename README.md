@@ -3,10 +3,6 @@
 
 
 
-![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-082032?style=for-the-badge&logo=Express&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 
 
 ### Follow Me
