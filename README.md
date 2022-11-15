@@ -31,3 +31,8 @@
 
 ### 📈 GitHub Activity Graph:
 [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mukhriddin-dev/count.svg" />
+</p>
