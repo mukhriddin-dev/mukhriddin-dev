@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 📈 GitHub Activity Graph:
-[![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
+[![Mukhriddin's ivity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
 
 <p align="center"> 
   Visitor count<br>
