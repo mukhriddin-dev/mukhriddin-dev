@@ -31,8 +31,8 @@
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev)
 
-### 📈 GitHub Activity Graph:
-[![Mukhriddin's activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph)
+<!-- ### 📈 GitHub Activity Graph:
+[![Mukhriddin's activity graph](https://activity-graph.herokuapp.com/graph?username=mukhriddin-dev&theme=react-dark)](https://github.com/mukhriddin-dev/github-readme-activity-graph) -->
 
 <p align="center"> 
   Visitor count<br>
