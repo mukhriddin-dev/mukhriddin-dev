@@ -21,8 +21,8 @@
 
 ### Contact With Me
 
-![emailto:khodievm@gmail.com](https://img.shields.io/badge/-khodievm@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhriddinwebs)
+<!-- ![emailto:khodievm@gmail.com](https://img.shields.io/badge/-khodievm@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhriddinwebs) -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
