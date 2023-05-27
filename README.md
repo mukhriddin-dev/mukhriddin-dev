@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Focusing to provide the best <strong title="Developer Experience">DX</strong> to deliver the best <strong title="User Experience">UX</strong> with <a href="https://webhub.uz">Webhub</a> & <a href="https://nuxt.studio">(JavaScript community)</a>.<br>Helping Open Source Maintainers to work faster.<br/>
+    Focusing to provide the best <strong title="Developer Experience">JS</strong> to deliver the best <strong title="User Experience">Manuals</strong> with <a href="https://webhub.uz">Webhub</a> & <a href="https://nuxt.studio">(JavaScript community)</a>.<br>Helping Open Source Maintainers to work faster.<br/>
     <a href="https://javascripts.uz">Website</a> .
     <a href="https://t.me/mukhriddinweb">Telegram</a> .
      <a href="https://instagram.com/mukhriddin_dev">Instagram</a>.
