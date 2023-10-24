@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Focusing to provide the best <strong title="Developer Experience">JS</strong> to deliver the best <strong title="User Experience">Manuals</strong> with <a href="https://webhub.uz">Webhub</a> & <a href="https://nuxt.studio">(JavaScript community)</a>.<br>Helping Open Source Maintainers to work faster.<br/>
+    We use Github to maintain our projects, and we suggest you do the same, ladies and gentlemen. <br/>
     <a href="https://javascripts.uz">Website</a> .
     <a href="https://t.me/mukhriddinweb">Telegram</a> .
     <a href="https://www.linkedin.com/in/mukhriddin-khodiev-6977a4243/">LinkedIn</a>.
@@ -9,7 +9,7 @@
 
 
 
-### Follow Me
+
 
 
 
