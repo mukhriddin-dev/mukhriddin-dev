@@ -13,7 +13,7 @@
 
 
 </samp>
- <a href="https://t.me/mukhriddinweb">Telegram</a> . <a href="https://www.linkedin.com/in/mukhriddin-khodiev-6977a4243/">LinkedIn</a> . <a href="[https://www.linkedin.com/in/mukhriddin-khodiev-6977a4243/](https://medium.com/@mukhriddinweb)">LinkedIn</a> 
+ <a href="https://t.me/mukhriddinweb">Telegram</a> . <a href="https://medium.com/@mukhriddinweb">Medium</a> 
  </p>
 
 <p align="center"> 
