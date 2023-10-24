@@ -13,9 +13,7 @@
 
 
     </samp>
-    <a href="https://t.me/mukhriddinweb">Telegram</a> .
-    <a href="https://www.linkedin.com/in/mukhriddin-khodiev-6977a4243/">LinkedIn</a>
-</p>
+ <a href="https://t.me/mukhriddinweb">Telegram</a> .<a href="https://www.linkedin.com/in/mukhriddin-khodiev-6977a4243/">LinkedIn</a></p>
 
 <p align="center"> 
   Visitor count<br>
