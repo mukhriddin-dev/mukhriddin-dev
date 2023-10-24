@@ -6,8 +6,8 @@
      <br/>
     <strong><a href="https://javascripts.uz">JavaScript (Node.js) </a></strong> 🔹 <strong><a href="https://[javascripts.uz](https://learn.microsoft.com/en-us/dotnet/csharp/)">c# (.NET core)</a></strong> 🔹 <strong><a href="https://go.dev">Go</a></strong> 🔹 <strong><a href="https://php.net"> PHP (Laravel)</a></strong> 🔹 <strong><a href="https://java.com">Java (Spring)</a></strong>
     <br/> </br>
-    <strong> <a href="https://angular.io">Angular</a></strong> 🔸 <strong> <a href="https://react.dev">React</a></strong>  🔸 <strong><a href="https://vuejs.org">Vue</a></strong> 
-    <br/>
+    <strong> <a href="https://angular.io">Angular</a></strong> 🔸 <strong> <a href="https://react.dev">React</a></strong> 🔸 <strong><a href="https://nextjs.org">(Next.JS)</a></strong>     🔸 <strong><a href="https://vuejs.org">Vue</a></strong> 🔸 <strong><a href="https://nuxt.com">(Nuxt.JS)</a></strong>  
+    <br/> 
     <br/>
     
     <a href="https://javascripts.uz">Website</a> .
