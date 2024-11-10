@@ -106,4 +106,3 @@ Here are list of the skills I have experience with.
 
 
 
-<a href="https://stardev.io/developers/mukhriddin-dev"><img alt="Check out mukhriddin-dev's profile on stardev.io" src="https://stardev.io/developers/mukhriddin-dev/badge/languages/global.svg" /></a>
