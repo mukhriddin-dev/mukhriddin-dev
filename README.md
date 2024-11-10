@@ -103,3 +103,7 @@ Here are list of the skills I have experience with.
 
 [![wakatime](https://wakatime.com/badge/user/8ec9d743-2300-4556-b0b7-7af353685a76.svg)](https://wakatime.com/@8ec9d743-2300-4556-b0b7-7af353685a76)
 [![github](https://img.shields.io/github/followers/mukhriddin-dev?logo=github&style=plastic)](https://github.com/mukhriddin-dev?tab=followers)
+
+
+
+<a href="https://stardev.io/developers/mukhriddin-dev"><img alt="Check out mukhriddin-dev's profile on stardev.io" src="https://stardev.io/developers/mukhriddin-dev/badge/languages/global.svg" /></a>
