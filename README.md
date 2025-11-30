@@ -25,6 +25,8 @@ Here are list of the skills I have experience with.
     <br/>
   - ReactJS
     <br/>
+   - VueJS
+    <br/>
   - Tanstack query
     <br/>
   - GraphQL
@@ -34,6 +36,8 @@ Here are list of the skills I have experience with.
   - Zustand
     <br/>
   - NextJS
+    <br/>
+    - NuxttJS
     <br/>
   - React Router DOM
     <br/>
