@@ -129,7 +129,7 @@ Claude · OpenAI · Gemini · Llama · Qwen · DeepSeek · Mistral — RAG with 
 <br/>
 
 <div align="center">
-  <img src="profile-assets/garage.svg" alt="BMW M8 Competition" width="100%" />
+ <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/3420749c-70f9-45c5-9d61-bf6a2e3a890d" />
 </div>
 
 ```go
