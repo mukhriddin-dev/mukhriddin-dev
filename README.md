@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=mukhriddin-dev&theme=transparent&hide_border=true&stroke=8b949e&ring=00ADD8&fire=00ADD8&currStreakNum=00ADD8&sideNums=00ADD8&currStreakLabel=00ADD8&sideLabels=8b949e&dates=8b949e" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=00ADD8&center=true&vCenter=true&width=700&height=60&lines=Mukhriddin+Khodieff;Go+%C2%B7+Platform+%C2%B7+AI+Infra;I+build+things+that+don't+fall+over." />
 
@@ -163,8 +163,7 @@ func (me Engineer) Drive() {
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mukhriddin-dev&show_icons=true&theme=transparent&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&hide_border=true&count_private=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhriddin-dev&layout=compact&theme=transparent&title_color=00ADD8&text_color=8b949e&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mukhriddin-dev&theme=transparent&hide_border=true&stroke=8b949e&ring=00ADD8&fire=00ADD8&currStreakNum=00ADD8&sideNums=00ADD8&currStreakLabel=00ADD8&sideLabels=8b949e&dates=8b949e" />
 
 <br/>
 
