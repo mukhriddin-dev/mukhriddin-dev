@@ -25,6 +25,7 @@ type Engineer struct {
 	Runs     []string // what I keep alive in production
 	Trains   string   // what I put the GPUs to work on
 	Believes []string
+	Garage   []string
 }
 
 func main() {
@@ -38,6 +39,7 @@ func main() {
 			"if it isn't observable, it isn't done",
 			"a deploy should be a non-event",
 		},
+		Garage: []string{"BMW M8 Competition"},
 	}
 
 	fmt.Printf("%+v\n", me)
@@ -117,6 +119,27 @@ From rack to running LLM endpoint.
 ## `04` · LLM apps & agents
 
 Claude · OpenAI · Gemini · Llama · Qwen · DeepSeek · Mistral — RAG with hybrid search + reranking (pgvector, Qdrant, Milvus), tool-calling agents, and **MCP servers** in Go & TypeScript. LangGraph · LlamaIndex · Vercel AI SDK · Langfuse · LangSmith.
+
+<br/>
+
+<details>
+<summary><b>🏁 garage</b></summary>
+
+<br/>
+
+<div align="center">
+  <img src="profile-assets/garage.svg" alt="BMW M8 Competition" width="100%" />
+</div>
+
+```go
+func (me Engineer) Drive() {
+	for { // no deadlines, only deploys
+		me.Ship()
+	}
+}
+```
+
+</details>
 
 <br/>
 
